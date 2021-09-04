@@ -98,7 +98,7 @@ body{
 .button-2{
     text-decoration: none;
     color: var(--button-color);
-    border: 1px solid var(--primary-color);
+    border: 2px solid var(--primary-color);
     padding: 0.3rem 1rem;
     border-radius: 1rem;
 }
