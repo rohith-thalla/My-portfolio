@@ -22,8 +22,9 @@ body{
 
 .nav-edits{
     background-color: var(--primary-color);
-    padding: 1rem;
+    padding: 0.5rem;
     border-bottom-left-radius: 1rem;
+    border-bottom-right-radius: 1rem;
 }
 
 .list-type{
@@ -47,7 +48,7 @@ body{
     padding: 2rem;
 }
 .hero-image{
-    max-width: 80%;
+    max-width: 60%;
     display: block;
     margin: auto;
 }
@@ -106,6 +107,7 @@ body{
 .footer-edits{
     background-color: var(--primary-color);
     border-top-right-radius: 1rem;
+    border-top-left-radius: 1rem;
     padding: 0rem 1rem 1rem;
 }
 
