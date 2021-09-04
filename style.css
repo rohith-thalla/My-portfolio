@@ -1,6 +1,6 @@
-@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
 body{
-    font-family: 'Oswald', sans-serif;
+    font-family: 'Poppins', sans-serif;
 }
 :root{
     --primary-color: #FBBF24;
@@ -121,6 +121,7 @@ body{
 .foot-brand{
     font-size: 1.5rem;
     text-align: center;
+    padding-top: 1rem;
 }
 .foot-lists{
     display: inline;
