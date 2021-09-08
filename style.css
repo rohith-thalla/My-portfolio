@@ -5,7 +5,7 @@ body{
     padding: 0;
 }
 :root{
-    --primary-color:#EF4444;
+    --primary-color:#374151;
     --secondaty-color: #D1D5DB;
     --text-color:#FFFFFF;
     --section-color:
@@ -54,7 +54,7 @@ body{
     text-align: center;
 }
 .hero-image{
-    max-width: 60%;
+    max-width: 70%;
     display: block;
     margin: auto;
     padding-top: 1rem;
@@ -76,11 +76,13 @@ body{
     background-color: var(--section-color);
     border-radius: 1rem;
     padding: 1rem 1rem;
+    margin: 1rem;
 }
 .section{
     text-align: center;
     border-radius: 1rem;
     padding: 1rem 1rem;
+    margin: 1rem;
 }
 
 .btn-full{
@@ -89,6 +91,14 @@ body{
     background-color: var(--primary-color);
     padding: 0.5rem 0.5rem;
     border-radius: 1rem;
+}
+
+.btn-half{
+    text-decoration: none;
+    border: 1px solid var(--primary-color);
+    padding: 0.5rem 0.5rem;
+    border-radius: 1rem;
+    color: var(--primary-color);
 }
 
 .footer{
@@ -122,5 +132,4 @@ body{
     padding: 1rem 1rem;
 }
 
-/* youtube.html */
 
